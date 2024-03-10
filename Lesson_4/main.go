@@ -97,7 +97,6 @@ func main() {
 			fmt.Scan(&user_input)
 			// Вызов функции из пакета features
 			fmt.Println(myFunc.Bonus_Task2(user_input))
-
 		}
 	}
 }
